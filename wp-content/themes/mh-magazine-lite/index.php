@@ -19,6 +19,7 @@
 		} else {
 			get_template_part('content', 'none');
 		} ?>
+
 	</div>
 	<?php get_sidebar(); ?>
 </div>
